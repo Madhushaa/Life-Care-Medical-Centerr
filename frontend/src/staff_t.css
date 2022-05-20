@@ -1,0 +1,124 @@
+.container{
+    position: static;
+    width: auto;
+    height: auto;
+    top: calc(50% - 240px);
+    left: calc(50% - 160px);
+  }
+  
+  .form{
+    display: inline-block;
+    text-align: left;
+    background: rgb(254, 255, 255);
+    width: 580px;
+    height: 1090px;
+    border-radius: 5px;
+    padding: 30px 20px 0 20px;
+    box-shadow: 0 10px 50px 0 rgb(128, 238, 241);
+    box-sizing: border-box;
+  }
+  
+  
+  .hstyle{
+    color:rgb(12, 12, 12)
+  }
+  
+  .styled-table {
+    border-collapse: collapse;
+    margin: 30px 30px;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 1000px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  .styled-table thead tr {
+    background-color: #191970;
+    color: #ffffff;
+    text-align: left;
+  }
+  .styled-table th,
+  .styled-table td {
+      padding: 12px 15px;
+  }
+  .styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #191970;
+  }
+  .styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #191970;
+  }
+  .buttons {
+    background-color: #27af3e; /* Green */
+ 
+    color: white;
+    padding: 7px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #e7e7e7;
+           }
+.buttond {
+    background-color: #097e5b; /* Green */
+ 
+    color: white;
+    padding: 7px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #e7e7e7;
+           }
+  .buttonu {
+    background-color: #7e68f7; /* Green */
+ 
+    color: white;
+    padding: 7px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #e7e7e7;
+           }
+  
+    .buttonc {
+            background-color: #ee1616; 
+            
+            color: white;
+            padding: 7px 40px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border:2px solid #e7e7e7;
+                   }
+    .buttonv {
+               background-color: #191970; 
+               
+               color: white;
+              padding: 7px 40px;
+              text-align: center;
+              text-decoration: none;
+             display: inline-block;
+              font-size: 16px;
+              border:2px solid #e7e7e7;
+                           }
+    .searchbar{
+      width: 300px;
+    
+    }
+    .table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+.trd{
+  inline-size: auto;
+}
